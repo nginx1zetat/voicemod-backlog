@@ -4,3 +4,4 @@ Draft leadership notes
 Plan resource allocation
 Record CI/CD pipeline
 Record retention schedule
+Summarize war room chat
