@@ -4,3 +4,4 @@ Draft precision notes
 Refactor old modules
 List action follow-ups
 Capture monitoring gaps
+Review glossary terms
