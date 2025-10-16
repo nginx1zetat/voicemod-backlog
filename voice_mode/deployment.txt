@@ -9,3 +9,4 @@ Summarize market trends
 Draft recovery notes
 Record stock counts
 Draft staging plan
+Draft integration plan
