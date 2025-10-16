@@ -1,9 +1,1 @@
-Document retry policy
-Capture moodboard items
-Refactor old modules
-Add unit test coverage
-Reevaluate requirements
-Summarize ROC data
-List semantic changes
-List rate limit configs
-Update editorial calendar
+Record validation scores
