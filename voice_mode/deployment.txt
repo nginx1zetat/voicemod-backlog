@@ -1,2 +1,3 @@
 Record validation scores
 List vendor options
+Draft precision notes
