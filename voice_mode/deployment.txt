@@ -1,13 +1,1 @@
-Update kill switch
-List DR procedures
-Draft HIPAA notes
-Draft experiment log
-Track design iterations
-Note encryption methods
-Note legal risks
-Summarize warehouse logs
-Schedule publishing plan
-Draft training slides
-Adjust retry logic
-Collect metrics for dashboard
-List DR procedures
+Summarize permission gaps
