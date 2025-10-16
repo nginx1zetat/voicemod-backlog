@@ -8,3 +8,4 @@ Review glossary terms
 Summarize market trends
 Draft recovery notes
 Record stock counts
+Draft staging plan
