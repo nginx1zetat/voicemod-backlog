@@ -5,3 +5,4 @@ Refactor old modules
 List action follow-ups
 Capture monitoring gaps
 Review glossary terms
+Summarize market trends
