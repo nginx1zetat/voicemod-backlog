@@ -2,3 +2,4 @@ Document retry policy
 Capture moodboard items
 Refactor old modules
 Add unit test coverage
+Reevaluate requirements
