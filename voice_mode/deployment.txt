@@ -2,3 +2,4 @@ Update threat model
 Update tracking board
 Draft leadership notes
 Plan resource allocation
+Record CI/CD pipeline
