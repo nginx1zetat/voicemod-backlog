@@ -7,3 +7,4 @@ Summarize CI logs
 Update deletion logs
 Record HR initiatives
 Summarize journalist list
+List discount schemes
